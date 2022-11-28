@@ -1,0 +1,45 @@
+* {
+/* put all page styles here */
+background-color: turquoise;
+font-family: Cambria, Cochin, Georgia, 'Times New Roman', serif;
+font-size: 105%;
+}
+
+h1 {
+    /* h1 style here */
+    font-size: 210%;
+    font-weight: bold;
+}
+
+h2 {
+    /* h3 style here */
+    font-size: 175%;
+}
+
+h3{
+    /* h3 style here */
+    font-size: 120%;
+}
+
+p {
+    /* paragraph style here */
+    font-size: 105%;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+#profile-pic {
+    /* profile pic style here */
+    height: 200px;
+    width: 200px;
+    display: inline;
+}
+
+#background-pic {
+    /* background pic style here */
+    display: block;
+    height: 120px;
+    width: 100%;
+}
