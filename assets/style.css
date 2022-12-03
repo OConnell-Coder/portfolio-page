@@ -6,6 +6,21 @@ font-size: 105%;
 /* display: flex; */
 }
 
+#profile-pic {
+    /* profile pic style here */
+    height: 200px;
+    width: 200px;
+    display: inline;
+}
+
+header {
+    display: flex;
+}
+
+header > div {
+    margin-left: 2%;
+}
+
 h1 {
     /* h1 style here */
     font-size: 210%;
@@ -17,9 +32,8 @@ h2 {
     font-size: 175%;
 }
 
-h3 {
-    /* h3 style here */
-    font-size: 120%;
+#about-me {
+    width: 50%;
 }
 
 p {
@@ -46,6 +60,7 @@ nav ul {
 .button:hover {
     background-color: teal;
     color: white;
+    cursor: pointer;
 }
 
 .button:active {
@@ -53,14 +68,13 @@ nav ul {
 }
 
 main {
-    /* flex-wrap: wrap; */
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
-#profile-pic {
-    /* profile pic style here */
-    height: 200px;
-    width: 200px;
-    display: inline;
+#Example-1 {
+    flex: 2 1 10%;
 }
 
 #background-pic {
