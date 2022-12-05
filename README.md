@@ -27,3 +27,7 @@ MIT License
 ## Features
 
 The top navigation buttons will take you to that part of the page, so you don't have to scroll to find what you're looking for.
+
+The project examples all have working links.
+
+The email address in the contact section has the mailto: property, so that when clicked, it will open an email directly to me.
