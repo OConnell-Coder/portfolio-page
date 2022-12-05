@@ -29,6 +29,9 @@ h1 {
 h2 {
     /* h2 style here */
     font-size: 175%;
+    display: block;
+    width: 100%;
+    justify-content: flex-start;
 }
 
 #background-pic {
@@ -77,10 +80,16 @@ section > div > p::first-letter {
     font-size: 158%;
 }
 
+h2 {
+    display: block;
+}
+
 main {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
 
 .button-2 {
@@ -90,6 +99,8 @@ main {
     text-decoration: none;
     margin: 1%;
     padding: 1%;
+    height: fit-content;
+    width: fit-content;
 }
 
 .button-2:hover {
