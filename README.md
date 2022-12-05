@@ -12,13 +12,13 @@ Simply follow the provided links below to view both the webpage itself and the G
 
 ## Usage
 
-Website Link: 
+Website Link: https://oconnell-coder.github.io/portfolio-page/
 
-GitHub Repo Link: 
+GitHub Repo Link: https://github.com/OConnell-Coder/portfolio-page
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![Deployed Page Screenshot 1](assets/Images/screen-shot-1.png)
+![Deployed Page Screenshot 2](assets/Images/screen-shot-2.png)
+![Deployed Page Screenshot 3](assets/Images/screen-shot-3.png)
 
 ## License
 
