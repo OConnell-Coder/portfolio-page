@@ -56,6 +56,21 @@ nav ul {
     list-style-type: none;
 }
 
+.tiptext {
+    color:#069; 
+    cursor:pointer;
+}
+.description {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border:1px solid #000;
+    width:400px;
+    height:400px;
+}
+
 .button-1 {
     float: left;
     font-size: 80%;
